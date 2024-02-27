@@ -1,7 +1,7 @@
 # merge_rebase
 <html>
   <head>
-    <title>README.MD</title>title>
+    <title>README.MD</title>
   </head>
 
   <body>
